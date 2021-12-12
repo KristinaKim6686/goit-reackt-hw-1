@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ghpages-deploymentnpm/static/css/main.cbe6e751.chunk.css",
+    "main.js": "/ghpages-deploymentnpm/static/js/main.abf5ed88.chunk.js",
+    "main.js.map": "/ghpages-deploymentnpm/static/js/main.abf5ed88.chunk.js.map",
+    "runtime-main.js": "/ghpages-deploymentnpm/static/js/runtime-main.d27548d1.js",
+    "runtime-main.js.map": "/ghpages-deploymentnpm/static/js/runtime-main.d27548d1.js.map",
+    "static/js/2.3e51da24.chunk.js": "/ghpages-deploymentnpm/static/js/2.3e51da24.chunk.js",
+    "static/js/2.3e51da24.chunk.js.map": "/ghpages-deploymentnpm/static/js/2.3e51da24.chunk.js.map",
+    "index.html": "/ghpages-deploymentnpm/index.html",
+    "static/css/main.cbe6e751.chunk.css.map": "/ghpages-deploymentnpm/static/css/main.cbe6e751.chunk.css.map",
+    "static/js/2.3e51da24.chunk.js.LICENSE.txt": "/ghpages-deploymentnpm/static/js/2.3e51da24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27548d1.js",
+    "static/js/2.3e51da24.chunk.js",
+    "static/css/main.cbe6e751.chunk.css",
+    "static/js/main.abf5ed88.chunk.js"
+  ]
+}
