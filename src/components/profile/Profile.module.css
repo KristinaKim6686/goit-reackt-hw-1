@@ -12,6 +12,7 @@
 }
 .avatar {
   width: 300px;
+  padding-top: 15px;
 }
 .description {
   display: flex;
