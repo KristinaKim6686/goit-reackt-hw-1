@@ -1,0 +1,29 @@
+.friend {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  height: 80px;
+  justify-content: center;
+  box-shadow: 0px 1px 4px 0px rgb(33, 31, 68), 0px 1px 1px 0px rgb(59, 53, 143),
+    0px 2px 1px -1px rgb(110, 108, 226);
+}
+.friend:not(:last-child) {
+  margin-bottom: 10px;
+}
+.avatar {
+  margin: 0 10px;
+}
+.status {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.true {
+  composes: status;
+  background-color: green;
+}
+.false {
+  composes: status;
+  background-color: red;
+}
