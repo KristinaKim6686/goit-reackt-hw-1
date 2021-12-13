@@ -5,7 +5,8 @@ import getRandomRgbColor from "../../utils/math-randomiser";
 const Statistics = ({ title, stats }) => {
   return (
     <section className={style.statistics}>
-      <h2 className={style.title}>{title}</h2>
+      {title && <h2 className={style.title}>{title}</h2>}
+
       <ul className={style.list}>
         {stats.map((item) => (
           <li
